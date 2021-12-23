@@ -22,4 +22,5 @@ import (
 
 func main() {
 	fmt.Println("!selpmaxe oG ,olleH")
+	fmt.Println("!selpmaxe oG ,olleH")
 }
